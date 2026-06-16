@@ -67,6 +67,7 @@ Your experience may vary as pricing and features change over time.
 | 19 | Pixlr AI Video            | https://pixlr.com                                        | Extends the Pixlr editor with AI-powered image to video creation for short clips.                           | Free plan with optional paid tiers         |
 | 20 | Pictory Image to Video    | https://pictory.ai                                       | Image to video feature that builds slideshow-style and animated videos from photos in an online studio.     | Free trial for new users                   |
 | 21 | Hailuo 2 Video            | https://hailuo2.video                                    | Browser-based image-to-video web app built around the Hailuo model. Takes a first-frame image and prompt, returns a short cinematic clip. | One free trial per 2 days (geo-limited)     |
+| 22 | Seedream AI Studio        | https://seedream4.video/                                 | All-in-one platform: generate images with ByteDance Seedream 5.0/4.5/4.0 then animate with Kling 2.1 in one click — both in the same workspace. | Free tier, no watermark on paid plans      |
 
 > Note  
 > Some URLs above are placeholders. Please open a pull request if you know a better or more official link.

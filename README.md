@@ -66,6 +66,7 @@ Your experience may vary as pricing and features change over time.
 | 18 | Clipfly Image to Video    | https://www.clipfly.com                                  | Full-featured image to video maker with object motion, background animation, and face effects.              | Free credits, some modes without watermark |
 | 19 | Pixlr AI Video            | https://pixlr.com                                        | Extends the Pixlr editor with AI-powered image to video creation for short clips.                           | Free plan with optional paid tiers         |
 | 20 | Pictory Image to Video    | https://pictory.ai                                       | Image to video feature that builds slideshow-style and animated videos from photos in an online studio.     | Free trial for new users                   |
+| 21 | Hailuo 2 Video            | https://hailuo2.video                                    | Browser-based image-to-video web app built around the Hailuo model. Takes a first-frame image and prompt, returns a short cinematic clip. | One free trial per 2 days (geo-limited)     |
 
 > Note  
 > Some URLs above are placeholders. Please open a pull request if you know a better or more official link.
